@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146152624435",
+    "project_id": "instantmessagingtest-69e71",
+    "storage_bucket": "instantmessagingtest-69e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146152624435:android:2f57070cfd71c4dd516e46",
+        "android_client_info": {
+          "package_name": "co.kavirathnaweera.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146152624435-rlfdaijsq200u1147mpdielpk2saee4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgG-xuC3qWTs-nFMfndyTHRLcs6DrsJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146152624435-rlfdaijsq200u1147mpdielpk2saee4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
